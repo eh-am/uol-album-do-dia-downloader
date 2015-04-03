@@ -1,0 +1,29 @@
+{
+  "name": "uol_photo_scraper",
+  "version": "0.0.1",
+  "description": "a simple photo scraper for uol.com.br albums",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.54.0",
+    "yargs": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eh-am/uol-photo-scraper"
+  },
+  "keywords": [
+    "uol",
+    "nodejs"
+  ],
+  "author": "eh-am (eduardo aleixo)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eh-am/uol-photo-scraper/issues"
+  },
+  "homepage": "https://github.com/eh-am/uol-photo-scraper"
+}
